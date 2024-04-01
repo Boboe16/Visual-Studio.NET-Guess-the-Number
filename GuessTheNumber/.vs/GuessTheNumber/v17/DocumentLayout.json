@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\richill rectin\\source\\repos\\GuessTheNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B29868-215A-420F-9E50-A794F084D6F5}|GuessTheNumber\\GuessTheNumber.vbproj|c:\\users\\richill rectin\\source\\repos\\guessthenumber\\guessthenumber\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{26B29868-215A-420F-9E50-A794F084D6F5}|GuessTheNumber\\GuessTheNumber.vbproj|solutionrelative:guessthenumber\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B29868-215A-420F-9E50-A794F084D6F5}|GuessTheNumber\\GuessTheNumber.vbproj|c:\\users\\richill rectin\\source\\repos\\guessthenumber\\guessthenumber\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{26B29868-215A-420F-9E50-A794F084D6F5}|GuessTheNumber\\GuessTheNumber.vbproj|solutionrelative:guessthenumber\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\richill rectin\\source\\repos\\GuessTheNumber\\GuessTheNumber\\Module1.vb",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Module1.vb",
+              "ToolTip": "C:\\Users\\richill rectin\\source\\repos\\GuessTheNumber\\GuessTheNumber\\Module1.vb",
+              "RelativeToolTip": "GuessTheNumber\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T18:27:56.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\richill rectin\\source\\repos\\GuessTheNumber\\GuessTheNumber\\Program.vb",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Program.vb",
+              "ToolTip": "C:\\Users\\richill rectin\\source\\repos\\GuessTheNumber\\GuessTheNumber\\Program.vb",
+              "RelativeToolTip": "GuessTheNumber\\Program.vb",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T18:27:09.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

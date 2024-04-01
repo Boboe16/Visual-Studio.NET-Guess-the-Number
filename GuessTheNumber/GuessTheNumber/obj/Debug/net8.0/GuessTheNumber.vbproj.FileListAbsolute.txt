@@ -1,0 +1,14 @@
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.vb
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.vbproj.CoreCompileInputs.cache
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\richill rectin\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
